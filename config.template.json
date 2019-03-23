@@ -1,0 +1,12 @@
+{
+	"discord": {
+		"id": "",
+		"secret": "",
+		"scopes": ["identify", "guilds"]
+	},
+	"port": 3001,
+	"session_secret": "",
+	"url": "http://localhost:3001",
+	"apps": {
+	}
+}
